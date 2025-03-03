@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Applitools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a924c39433c915dd17b2319651a53c1c77cccc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4472651c6545ff74f3d195e6ed60b9125ef63b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Applitools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Applitools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
